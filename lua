@@ -1,4 +1,5 @@
--- Sheesh  --
+-- GG  --
+print("UTG")
 
 local TrollingGuiOpener = Instance.new("ScreenGui")
 local Menu = Instance.new("Frame")
